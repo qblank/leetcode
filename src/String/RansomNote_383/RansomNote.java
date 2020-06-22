@@ -1,8 +1,5 @@
 package String.RansomNote_383;
 
-import java.util.HashSet;
-import java.util.Set;
-
 /**
  * @date 2018/11/26
  * 383.赎金信
