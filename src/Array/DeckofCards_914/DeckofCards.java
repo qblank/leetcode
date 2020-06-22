@@ -42,11 +42,12 @@ import java.util.Map;
  */
 public class DeckofCards {
     public static void main(String[] args) {
-        /*int[] deck = {1,2,3,4,4,3,2,3};
+        //int[] deck = {1,2,3,4,4,3,2,1};
+        /*int[] deck = {1,1,1,2,2,2,3,3,3,3};
         boolean result = hasGroupsSizeX(deck);
         System.out.println(result);*/
-
-        System.out.println(8%10);
+        int res = countNum(0, 1);
+        System.out.println(res);
     }
 
     /**
